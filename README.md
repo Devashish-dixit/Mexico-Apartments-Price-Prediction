@@ -15,7 +15,7 @@ This notebook walks through the process of predicting apartment prices in Mexico
 - A baseline Mean Absolute Error (MAE) was calculated to assess the performance of our predictive model.
 
 ## Machine Learning
-- A pipeline was created, comprising <OneHotEncoder> and <SimpleImputer> transformers, along with <Ridge Regression> as the regularization model.
+- A pipeline was created, comprising **OneHotEncoder** and **SimpleImputer** transformers, along with **Ridge Regression** as the regularization model.
 - The model's Mean Absolute Error (MAE) score was computed and statistically validated, ensuring its reliability and predictive power.
 - Predictions were generated for the test data, providing insights into apartment price estimates.
 
