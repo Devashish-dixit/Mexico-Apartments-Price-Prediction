@@ -19,7 +19,10 @@ This notebook walks through the process of predicting apartment prices in Mexico
 - The model's Mean Absolute Error (MAE) score was computed and statistically validated, ensuring its reliability and predictive power.
 - Predictions were generated for the test data, providing insights into apartment price estimates.
 
+
 ## Model Interpretation
 - To understand the most influential factors affecting apartment prices, a horizontal bar chart was created, showcasing the top 10 coefficients from our Ridge Regression model.
 
 This notebook guides you through the entire process of predicting apartment prices in Mexico, from data preparation to model interpretation, with a focus on transparency and meaningful insights.
+
+**Note**: While GitHub provides a preview of this notebook's content, some visualizations may not render correctly in the preview. For the best experience and a comprehensive understanding of the notebook, I recommend accessing it through Google Colab.Thank you for understanding!
